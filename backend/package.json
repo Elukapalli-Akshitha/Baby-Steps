@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "cores": "^0.8.5",
+    "dotenv": "^16.4.7",
+    "moment-timezone": "^0.5.47",
+    "mongoose": "^8.10.1",
+    "mongos": "^0.0.0"
+  }
+}
